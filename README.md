@@ -10,9 +10,10 @@
 
 #
 Логика экранов организована при помощи BLoC
-
+<p float="left">
 <img src="https://github.com/nelermont/news_flutter/blob/main/firtsscreen.png" width="300" />
-<img src="https://github.com/nelermont/news_flutter/blob/main/2sscreen.png" width="300" />
+<img src="https://github.com/nelermont/news_flutter/blob/main/2screen.png" width="300" />
 <img src="https://github.com/nelermont/news_flutter/blob/main/3screen.png" width="300" />
+</p">
 
 
