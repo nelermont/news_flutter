@@ -1,16 +1,18 @@
-# news
+# News
+Мультиплатформенное новостное приложение
 
-A new Flutter project.
+#Функционал:
+- При открытии страницы с новостями данные загружаются по Api
+- Карусель с Featured новостями (горизонтальный скролл)
+- Список Latest news c последними новостями (вертикальный скролл)
+- AppBar с кнопкой Mark all read
+- При нажатии на новость из Featured или Latest news списка открывается страница с подробностями новости (Страница одной новости)
 
-## Getting Started
+#Логика
+Логика экранов организована при помощи BLoC
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/nelermont/news_flutter/blob/main/firtsscreen.png" width="800" />
+<img src="https://github.com/nelermont/news_flutter/blob/main/2sscreen.png" width="800" />
+<img src="https://github.com/nelermont/news_flutter/blob/main/3screen.png" width="800" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
